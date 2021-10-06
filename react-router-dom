@@ -1,0 +1,6 @@
+<Route path="/" exact={true} component{Page이름}/>
+/ 주소로 이동시 Page이름 으로 이동한다
+exact를 적어 놓을 시 정확히 주소를 읽는다.
+
+<Linkt to ="path주소"></link>
+a 태그와는 다르게 주소로 옮기면서 다시 다 그리는게아니라 특정부분만 그려짐
